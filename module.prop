@@ -1,6 +1,7 @@
 id=qdl-ndk
 name=QDL For Android NDK
 version=v1.0-libsparse
-versionCode=20220731
+versionCode=20220806
 author=JonesqPacMan™
-description= Qualcomm Download (QDL) is open source flashtool that implements the Qualcomm Sahara and Firehose protocols, and can be used for program (or unbrick) MSM based devices. Implement sparse image flashing support. This static binary support multi architectures built with the NDK & compressed by UPX.
+description= Qualcomm Download (QDL) is open source flashtool that implements the Qualcomm Sahara and Firehose protocols, and can be used for program (or unbrick) MSM based devices. Implement sparse image flashing support. This static binary support multi architectures built with the NDK
+
